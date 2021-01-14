@@ -1,0 +1,49 @@
+[2021-01-09 15:05:48.382] [srio] [debug] [BoardCaptureImpl] createBoardCapture is called with localId=0, localPort=0, destId=0, channelId=1, videoType=0, listner=0, winId=460634
+[2021-01-09 15:05:48.390] [srio] [debug] [BoardCaptureImpl] SRIO intialized.
+[2021-01-09 15:05:48.497] [srio] [debug] [BoardCaptureImpl] start is called.
+[2021-01-09 15:05:48.497] [srio] [debug] [BoardCaptureImpl] extInterface is called.
+[2021-01-09 15:05:48.497] [srio] [debug] [BoardCaptureImpl] extPara.type=350, extPara.para.recordSetting:
+[2021-01-09 15:05:48.497] [srio] [debug] [BoardCaptureImpl] 	sourceType=2, path=D:\panowww\123.mp4, timeDuration=1, fileType=4063232, videoType=0
+[2021-01-09 15:05:48.497] [srio] [debug] [BoardCaptureImpl] extPara.para.recordSetting.encodePara: 
+[2021-01-09 15:05:48.498] [srio] [debug] [BoardCaptureImpl] 	MBitRate=8, movieScale.wScale=1920, movieScale.hScale=1080, encodeType=5013168, fRate=30
+[2021-01-09 15:05:48.498] [srio] [debug] [display] extInterface RECORD_START
+[2021-01-09 15:10:18.429] [srio] [debug] [BoardCaptureImpl] createBoardCapture is called with localId=0, localPort=0, destId=0, channelId=1, videoType=0, listner=0, winId=1771612
+[2021-01-09 15:10:18.437] [srio] [debug] [BoardCaptureImpl] SRIO intialized.
+[2021-01-09 15:10:18.512] [srio] [debug] [BoardCaptureImpl] start is called.
+[2021-01-09 15:10:18.512] [srio] [debug] [BoardCaptureImpl] extInterface is called.
+[2021-01-09 15:10:18.512] [srio] [debug] [BoardCaptureImpl] extPara.type=350, extPara.para.recordSetting:
+[2021-01-09 15:10:18.512] [srio] [debug] [BoardCaptureImpl] 	sourceType=2, path=D:\panowww\123.mp4, timeDuration=1, fileType=4194304, videoType=0
+[2021-01-09 15:10:18.512] [srio] [debug] [BoardCaptureImpl] extPara.para.recordSetting.encodePara: 
+[2021-01-09 15:10:18.512] [srio] [debug] [BoardCaptureImpl] 	MBitRate=8, movieScale.wScale=1920, movieScale.hScale=1080, encodeType=5144240, fRate=30
+[2021-01-09 15:10:18.512] [srio] [debug] [display] extInterface RECORD_START
+[2021-01-09 15:11:27.296] [srio] [debug] [BoardCaptureImpl] createBoardCapture is called with localId=0, localPort=0, destId=0, channelId=1, videoType=0, listner=0, winId=5769218
+[2021-01-09 15:11:27.306] [srio] [debug] [BoardCaptureImpl] SRIO intialized.
+[2021-01-09 15:12:09.015] [srio] [debug] [BoardCaptureImpl] createBoardCapture is called with localId=0, localPort=0, destId=0, channelId=1, videoType=0, listner=0, winId=3343328
+[2021-01-09 15:12:09.024] [srio] [debug] [BoardCaptureImpl] SRIO intialized.
+[2021-01-09 15:26:03.554] [srio] [debug] [BoardCaptureImpl] createBoardCapture is called with localId=0, localPort=0, destId=0, channelId=1, videoType=0, listner=0, winId=67140
+[2021-01-09 15:26:03.555] [srio] [debug] [VideoEncodeManager] Encoder initialized.
+[2021-01-09 15:26:03.563] [srio] [debug] [BoardCaptureImpl] SRIO intialized.
+[2021-01-09 15:26:03.580] [srio] [debug] [BoardCaptureImpl] start is called.
+[2021-01-09 15:26:03.582] [srio] [debug] [BoardCaptureImpl] extInterface is called.
+[2021-01-09 15:26:03.582] [srio] [debug] [BoardCaptureImpl] extPara.type=350, extPara.para.recordSetting:
+[2021-01-09 15:26:03.582] [srio] [debug] [BoardCaptureImpl] 	sourceType=2, path=D:\panowww\123.mp4, timeDuration=1, fileType=3793216, videoType=0
+[2021-01-09 15:26:03.583] [srio] [debug] [BoardCaptureImpl] extPara.para.recordSetting.encodePara: 
+[2021-01-09 15:26:03.583] [srio] [debug] [BoardCaptureImpl] 	MBitRate=8, movieScale.wScale=1920, movieScale.hScale=1080, encodeType=1, fRate=30
+[2021-01-09 15:26:03.583] [srio] [debug] [display] extInterface RECORD_START
+[2021-01-09 15:26:03.583] [srio] [debug] [VideoEncodeManager] startRecord
+[2021-01-09 15:26:59.886] [srio] [debug] [VideoEncodeManager] encoder reached target frame count
+[2021-01-09 15:27:41.221] [srio] [debug] [VideoEncodeManager] encoder reached target frame count
+[2021-01-09 15:34:13.017] [srio] [debug] [BoardCaptureImpl] createBoardCapture is called with localId=0, localPort=0, destId=0, channelId=1, videoType=0, listner=0, winId=198210
+[2021-01-09 15:34:13.017] [srio] [debug] [VideoEncodeManager] Encoder initialized.
+[2021-01-09 15:34:13.026] [srio] [debug] [BoardCaptureImpl] SRIO intialized.
+[2021-01-09 15:34:13.053] [srio] [debug] [BoardCaptureImpl] start is called.
+[2021-01-09 15:34:15.049] [srio] [debug] [display] FRAMES PER SECONDS: 50.100200400801604
+[2021-01-09 16:13:22.487] [srio] [info] [BoardCaptureImpl] createBoardCapture is called with localId=0, localPort=0, destId=0, channelId=1, videoType=0, listner=0, winId=460396
+[2021-01-09 16:13:22.487] [srio] [debug] [VideoEncodeManager] Encoder initialized.
+[2021-01-09 16:13:22.496] [srio] [debug] [BoardCaptureImpl] SRIO intialized.
+[2021-01-09 16:13:22.525] [srio] [info] [BoardCaptureImpl] start is called.
+[2021-01-09 16:13:24.520] [srio] [debug] [display] FRAMES PER SECONDS: 50.150451354062184 channelId=1
+[2021-01-09 16:17:09.483] [srio] [info] [BoardCaptureImpl] destroyBoardCapture is called.
+[2021-01-09 16:17:09.483] [srio] [info] [BoardCaptureImpl] Destructor is called
+[2021-01-09 16:17:09.498] [srio] [debug] [VideoEncodeManager] Encoder destructor called.
+[2021-01-09 16:17:09.498] [srio] [debug] [VideoEncodeManager] stopRecord
